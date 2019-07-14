@@ -7,7 +7,7 @@ class Student:
         self.StudAge=age
         self.StudGender=gender
         self.StudBloodG=bloodg
-        self.StudentStatus=status1234
+        self.StudentStatus=status123456789
 
 
 
